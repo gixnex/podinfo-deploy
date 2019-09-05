@@ -23,7 +23,7 @@ spec:
       - name: metrics-demo
         image: quay.io/brice/metrics-demo:v4-subscription-service
         command:
-        - ./podinfo
+        - ./metrics-demo
         - --port=3000
         ports:
         - containerPort: 3000
