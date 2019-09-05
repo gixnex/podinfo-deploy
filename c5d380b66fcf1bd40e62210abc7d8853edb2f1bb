@@ -1,0 +1,1 @@
+{"jobID":"7f4d0275-0b83-87c6-ae7a-71911004a75a","spec":{"type":"policy","cause":{"Message":"","User":"Pablo Trigo \u003cpablo.trigo@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"locked":"true","locked_msg":"\"\"","locked_user":"Pablo Trigo \u003cpablo.trigo@gmail.com\u003e"}}}},"result":null}
