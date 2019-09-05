@@ -1,0 +1,1 @@
+{"jobID":"21e29e30-f19e-2349-02e1-0368f81947ef","spec":{"type":"policy","cause":{"Message":"","User":"Pablo Trigo \u003cpablo.trigo@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
